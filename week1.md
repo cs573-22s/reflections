@@ -10,4 +10,5 @@ I connected with this visualization for a few reasons. Firstly, I find data jour
 
 From a more technical angle of data visualization rather than the motivations behind them I found this was a fairly accessible visualization. In that it is merely an interactive map colored on a scale from white to red, which may be reductive, but also feels like something that I could potentially create instead of an overly complicated visualization with animation and menus and all these other bells and whistles. While I’m sure the code is still beyond my grasp right now, it feels like something I would be able to achieve with some relative effort compared to others which as of yet feel far beyond my ability. Additionally, the color scale reminded me of the conversation in class we had about rainbow scales being generally bad and misleading when it comes to interpretation. Whereas a binary color scale, such as the one used in this map, is much more user friendly when it comes to interpretation of the data.
 
+https://climatechange.europeandatajournalism.eu/en/map
 
