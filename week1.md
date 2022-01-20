@@ -1,0 +1,1 @@
+![Alt text](nytimes_covid.png)
