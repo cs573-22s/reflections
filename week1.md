@@ -15,3 +15,5 @@ more traditional way of seeing the data as an option, for people who might not w
 
 Overall, I think this is a good way to catch people's attention, but it might need to be coupled to optional ways to see data more clearly than in the game's 3D space. As this is
 a prototype, we might see further iterations of it in the future, so it could be interesting to keep an eye for this type of visualization.
+
+
