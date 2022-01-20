@@ -1,3 +1,4 @@
+Week 1:
 My reflection for this week is this data visualization tool that I came across online. (https://pudding.cool/2017/04/beer/)
 
 Description:
