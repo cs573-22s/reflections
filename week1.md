@@ -13,4 +13,5 @@ We are also provided with a slider which allows us to select the importance we w
 The next screen then plots the number of breweries that have opened up each year (Screenshot6.png) following by the screen which has then plotted the number of breweries opened per 1M people for all the states from 1997 to 2016 (Screenshot7.png).
 
 What I found interesting? 
+
 The graphical aspect which also allows rotation as shown in screenshot5.png is really interesting. It gives us live feedback instead of us feeding the parameters and then the page reloading. Even the cities are updated with a great visual effect. Futher, the author has clearly mentioned the methodology as well. So I don't think many people will dispute the visualisations.
