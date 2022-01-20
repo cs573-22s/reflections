@@ -9,6 +9,6 @@ The author then explains his methodology of evaluation of cities which is based 
 In the next section the author has marked the top 50 cities on the map with the top 10 being labelled. The sizes and the darker shades of the markers show that those cities are ranked higher (Screenshot4.png).
 
 The author then gives us the opportunity to explore the rankings by ourselves. We get the option of selecting the criterias such as minimum number of breweries, distance and strength of the beer.
-We are also provided with a slider which allows us to select the importance we want to give to the rating of beer and the number of breweries nearby. When we slide the slider, we notice that the graph also rotates as per it and the list of best cities updates according to the parameters selected by us.
+We are also provided with a slider which allows us to select the importance we want to give to the rating of beer and the number of breweries nearby. When we slide the slider, we notice that the graph also rotates as per it and the list of best cities updates according to the parameters selected by us (Screenshot5.png).
 
-The next screen then plots the number of breweries that have opened up each year following by the screen which has then plotted the number of breweries opened per 1M people for all the states from 1997 to 2016.
+The next screen then plots the number of breweries that have opened up each year (Screenshot6.png) following by the screen which has then plotted the number of breweries opened per 1M people for all the states from 1997 to 2016 (Screenshot7.png).
