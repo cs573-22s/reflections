@@ -5,7 +5,7 @@ Wordle is a recent trend that has swept through social media and pretty much eve
 
 # A Word on Wordle
 
-In the ![article I chose](https://towardsdatascience.com/a-frequency-analysis-on-wordle-9c5778283363), Behrouz Bakhtiari, a professor from DeGroote school of Business, did an analysis on the frequency of letter, their positions, and how many letters certain starter words revealed, to try to find the best "starter word". That is the first word you guess to try to get as much information as possible. The graph shown here:<br />
+In the [article I chose](https://towardsdatascience.com/a-frequency-analysis-on-wordle-9c5778283363), Behrouz Bakhtiari, a professor from DeGroote school of Business, did an analysis on the frequency of letter, their positions, and how many letters certain starter words revealed, to try to find the best "starter word". That is the first word you guess to try to get as much information as possible. The graph shown here:<br />
 ![frequency of letters graph](https://miro.medium.com/max/510/1*V30LAurxr-HSYJqQHPMAxQ.png)
 
 Shows the frequency of each letter in 5 letter words. As you would expect letters like "a", "e", "s', and "o" are quite frequent. (Interestingly, the most common letter in the english language "e" is not the top letter, but rather second to "a".) Having those, you could try to get a word that contains the top 5 letters: (a, e, s, o, r) searo? reaso? Not sure if those are words. This might be a good idea to get the letters in the word, BUT if those letters are the most common, whats the point of knowing if they are in the word, if you don't know where they are in the word? The author goes on to study the frequency of the top letters by position in the 5 letter words, as shown here:<br />
