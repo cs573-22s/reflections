@@ -1,8 +1,7 @@
-Reflection 1
-Marcus Chalmers
-CS573
-1/20/2022
-Reflection Week 1
+###### Marcus Chalmers 
+###### CS573
+###### 1/20/2022 
+###### Reflection Week 1
 
 ["The Tempestry Project"](https://en.wikipedia.org/wiki/The_Tempestry_Project)
 
@@ -15,18 +14,24 @@ map out either the high or low temperatures for each day in a specific location 
 area, and year are chosen cause a large amount of variation. So while the practice has become very popular on the internet, most blankets
 end up being a fairly unique representation of temperature data.
 
-![Simple Example of Temperature Blankets](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+
+![Simple Example of Temperature Blankets](https://github.com/mchalmers/reflections/blob/master/week1-1.jpg?raw=true)
+
 On the left, three Tempestries for Utqiagvik, AK representing (L-R) 1925, 2010, and 2016.
 On the right, two Tempestries for Death Valley, CA representing (L-R) 1950 and 2016.
 These were on display in 2018 at FutureFest in Anacortes, WA.
 The Tempestry Project - Justin Connelly
 
-![Larger Collection of Temperature Blankets](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Larger Collection of Temperature Blankets](https://github.com/mchalmers/reflections/blob/master/week1-2.jpg?raw=true)
+
 The Tempestry Project's display was part of the Museum of Northwest Art's Surge exhibit in the fall of 2018.
 This collection contains twenty-two Tempestries for Deception Pass, WA, each one representing one year of 
 high-temperature data starting with January at the bottom. This collection ranges from 1950 on the left to
 2017 on the right.
 The Tempestry Project - Justin Connelly
+
+
 
 These specific examples are scarfs rather than large blankets but they still show the same temperature variation throughout the year.
 I like this type of data visualization because it's practical outside of its limited ability to display information. Each blanket
