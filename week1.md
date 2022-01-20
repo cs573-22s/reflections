@@ -6,4 +6,4 @@ I chose their interactive world map for the first week reflections because it's 
 
 Finally, the visualizations are also interactive. The user can mouse over any of the countries in each visualization to see additional data. For the hot spots visualization, this incluses the average cases per day, the average cases per day per 100,000 people, and the 14-day trend. This can help people identify emerging hot spots and compare the case numbers of each country without scrolling through lengthy lists and trying to remember numbers of countries they're interested in while scrolling. 
 
-![Scroll over hot-spot data of the US from NYT](https://github.com/allyziemage/reflections/blob/master/nytimes_us_hotspot.PNG "US hot spot data from The New York Times")
+![Scroll over hot-spot data of the US from NYT](https://github.com/allyziemage/reflections/blob/master/nytimes_us_hotspot.png "US hot spot data from The New York Times")
