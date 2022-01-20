@@ -20,7 +20,7 @@ Six different processes can be highly influenced by machine learning techniques 
 In this stage, Machine learning algorithms are used to make preprocessing easier and efficient as well as enhance human perceptions on data like using dimension reduction to better visualize high dimension dataset.
 
 <div style="text-align:center">
-<img src="images/week1-2.jpg" />
+<img src="images/week1-2.JPG" />
 </div>
 <p align="center">Figure 2</p>
 
