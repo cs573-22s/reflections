@@ -1,0 +1,20 @@
+Johvanni Perez
+Data Viz - CS573
+Professor Harrison
+Reflection 1
+
+I've had this data visualization technique in mind for quite some time now: https://towardsdatascience.com/guide-to-using-word-clouds-for-applied-research-design-2e07a6a1a513.
+The article discusses "worldclouds" which is essentially a data visualization technique that displays words in the form of a cloud or bubble. I think it's interesting to note that
+wordclouds can be adapted to display syllables, letters, any form of text that's not necessiraly considered a word. Considering this, I find that wordclouds are quite interesting
+because they can be used in cases where NLP can be used on a data set involving text and the goal is to quantify or to find meaning behind the data set. Data summarization is 
+one example that can fit such a scenario aformentioned because a wordcloud can be created to host text within a dataset. Depending on the frequency of the words, certain words or
+text can be displayed larger in size relative to other words that may not be as frequently mentioned. In the end, wordclouds can be used to give a person insight to the dataset
+they might be working with as well as provide context or an idea of what the data is trying to convey.
+
+What I liked the most about the article linked above is that the author demonstrated how wordclouds can be used in advanced ways. There were several examples where wordclouds
+were used to create neural networks and an animated wordcloud. I especially liked the animated wordcloud example because it shows how a person can show how text or words, 
+depending on the context, can grow or shrink over time. What I mean by grow/shrink, is that depending on how many times a distinct word is used over time we can display the size
+of that specific word by enlarging or shrinking it based on how often it was used on a time scale. For example, if we have a data set of tweets from Twitter from the start of
+January to the end of January, we can create a wordcloud containing all the words of every tweet collected in that given month. We would expect that certain words will be 
+bigger or smaller relative to the rest over time because depending on the topic that trending a certain day or week we will see the word grow/shrink in size in the animated
+wordcloud. I really liked this idea and I would definitely be referencing it in the future.
