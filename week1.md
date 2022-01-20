@@ -1,0 +1,9 @@
+## Sources
+
+https://youtu.be/HzzmqUoQobc <br />
+https://pudding.cool/2017/05/song-repetition/ <br />
+https://colinmorris.github.io/SongSim/#/gallery <br />
+
+## Reflection
+
+While I am not particularly adept in music theory I do find Vox’s Earworm series on Youtube to be a good introduction to the topic broken down into an understandable manner for a large audience. In this reflection I want to look at the different ways Colin Morris analyzed the repetition in music and which visualizations worked the best. The visualizations that initially stood out to me on my first watch through the video were the images from his Song Sim; these colorful boxy diagonals piqued my interest because of their visual appeal. On a closer analysis of these color patterns I noticed that while they weren't the easiest to correctly interpret all the detail that was included I could generally recognize that the more diagonals and checkered boxes there were the more repetitive the song was. Even though his field guide provided examples and explanations for certain patterns the meaning was still lost on me a little but, this did not take away from my visual enjoyment of the data. The next thing I analyzed was his other depiction of the data in his article on Pudding.com. While his visualizations comparing genre, decades and artists' music size reduction with the average size reduction were interesting, what stood out the most to me were his initial visualizations showing the links between words and depicting how the  Lempel-Ziv algorithm worked for creating these comparisons. In general this is a dataset that is very popular/known and I believe Colin Morris took an interesting and unique approach to not only talk about something many of us have observed, but try and actually prove it with data. 
