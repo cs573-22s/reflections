@@ -1,1 +1,1 @@
-![Alt text](/reflections/nytimes_covid.png)
+![Alt text](https://github.com/allyziemage/reflections/blob/master/nytimes_covid.PNG)
