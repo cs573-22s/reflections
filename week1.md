@@ -11,7 +11,7 @@ This paper is pursuing two primary goal:
 Six different processes can be highly influenced by machine learning techniques and models, which are the component of a pipeline named as ML4VIS: 
 
 <div style="text-align:center">
-<img src="images/week1-1.jpg" />
+<img src="./images/week1-1.JPG" />
 </div>
 <p align="center">Figure 1 This image depicts the data pipeline and the six visualization processes that are involved in a visualization process. </p>
 
@@ -20,7 +20,7 @@ Six different processes can be highly influenced by machine learning techniques 
 In this stage, Machine learning algorithms are used to make preprocessing easier and efficient as well as enhance human perceptions on data like using dimension reduction to better visualize high dimension dataset.
 
 <div style="text-align:center">
-<img src="images/week1-2.jpg" />
+<img src="images/week1-2.JPG" />
 </div>
 <p align="center">Figure 2</p>
 
@@ -29,7 +29,7 @@ In this stage, Machine learning algorithms are used to make preprocessing easier
 In the presentation stage, machine learning models can be used for visualization recommendation as well as improving the efficiency of creating visualizations like reducing cost on high computational cost visuals, maps, etc.
 
 <div style="text-align:center">
-<img src="images/week1-3.jpg" />
+<img src="images/week1-3.JPG" />
 </div>
 <p align="center">Figure 3</p>
 
@@ -38,7 +38,7 @@ In the presentation stage, machine learning models can be used for visualization
 This part would be more heavily related to natural language processing because it would require a model to convert some insights described by texts to images or visualizations. 
 
 <div style="text-align:center">
-<img src="images/week1-4.jpg" />
+<img src="images/week1-4.JPG" />
 </div>
 <p align="center">Figure 4</p>
 
@@ -47,7 +47,7 @@ This part would be more heavily related to natural language processing because i
 Machine learning is also crucial to this phase because selecting proper color and layouts are very crucial for conveying ideas precisely and with great tones.
 
 <div style="text-align:center">
-<img src="images/week1-5.jpg" />
+<img src="images/week1-5.JPG" />
 </div>
 <p align="center">Figure 5</p>
 
@@ -56,7 +56,7 @@ Machine learning is also crucial to this phase because selecting proper color an
 CNN and other type of models can be used to refine results from interaction, predicting next steps from users, and learning about its users. 
 
 <div style="text-align:center">
-<img src="images/week1-6.jpg" />
+<img src="images/week1-6.JPG" />
 </div>
 <p align="center">Figure 6</p>
 
@@ -65,6 +65,6 @@ CNN and other type of models can be used to refine results from interaction, pre
 Models used in this part is more angled towards understanding the story of the visualizations to draw proper conclusions to aid decision making process. 
 
 <div style="text-align:center">
-<img src="images/week1-7.jpg" />
+<img src="images/week1-7.JPG" />
 </div>
 <p align="center">Figure 7</p>
