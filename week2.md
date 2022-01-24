@@ -1,6 +1,6 @@
 # Week 2 Reflections
 
-![Flame Graph]
+![Flame Graph](https://www.brendangregg.com/FlameGraphs/cpu-mysql-updated.svg)
 
 This week my reflection is on flame graphs visualizations and their use for profiling application CPU time. Flame graphs
 visualize the hierarchical breakdown of a task into its component times. While they can be applied to a broad range of
@@ -10,6 +10,5 @@ I found this great [post by Brendan Gregg] on what flame graphs are and how they
 how an application spends its time.
 
     [post by Brendan Gregg]: https://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html
-    [Flame Graph]: https://www.brendangregg.com/FlameGraphs/cpu-mysql-updated.svg
     [D3 Flame Graph Demo]: http://martinspier.io/d3-flame-graph/
 
