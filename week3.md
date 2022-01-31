@@ -7,3 +7,4 @@ This is basically a simulation of what the solar system is going to look like in
 It got a bit more confusing when the scale changes and we can see this huge ball made up of paths, because I wasn't sure if we were still looking at the solar system or if this was some other cosmic object. From the descriptions around this simulation and seeing the spaceships leaving the ball, this seems to be the oort cloud. This cloud is a huge sphere of icy bodies that surrounds the solar system, and it seems the ships left it to go investigate something. 
 
 Overall, I found this simulation to be visually amazing. It is a little overwhelming and hard to understand without the proper background information, but watching it a few times and reading a few sentences about it makes it much easier to appreciate it. I watched it a few times focusing on different elements and it just doesn't get old. And it's only a small part of a much larger project!
+ 
