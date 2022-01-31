@@ -1,1 +1,1 @@
-testtesttesttest
+Today I want to introduce the DOTA2 built-in dashboard, it could reflct the trend of the individual game process. And we also could compare personal performance with the global player at your level. Many professional team including PSG.LGD, Liquid and OG use this dashboard to do data analysis and make new strategegy. In addition, if you buy the dota plus VIP, you will get the latest high winning rate hero combines to improve your gaming experience.
