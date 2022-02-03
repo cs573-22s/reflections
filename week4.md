@@ -1,0 +1,9 @@
+Elaine Chen
+CS 573 • Data Visualization
+Professor Harrison
+February 4, 2022
+Reflection 4
+
+Link Referenced: https://www.unwomen.org/en/digital-library/multimedia/2020/2/infographic-visualizing-the-data-womens-representation
+
+This data visualization portrays women and their representation in society compared to men over the past fifty years. It highlights different fields and portrays how female representation has either improved or declined over time, while showing how they fare in comparison to their male counterparts. This visualization does a great job at also showing the growth or lack of growth of representation, as each visualization changes depending on the year they're showing to portray the change over time. The observed industries consist of politics, business/work life, cuture and sciences, journalism, entertainment, sports, and the culinary arts. While the visualizations are interactive to portray change in time, each visual is specific to the industry it is referencing and each one does a great job of utilizing shapes, color, iconography, and different charts. For example, the first visualization presents an assortment of dots to fill the shape of a semicircle. This shape is intentional because it is discussing the industry of politics, and this shape looks like the seating arrangement of politicial figures (i.e. House of Representatives) when they meet. Another example of the detail this data visualization utilizes is the usage of different plotting techniques individualized for each industry. The ability to use different graphing techniques for each industry is helpful when creating the story of this visualization, because it keeps the user engaged when they want to learn about what each graphic is informing them about, and they don't get bored of seeing the same one over and over again. 
