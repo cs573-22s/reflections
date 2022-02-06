@@ -11,3 +11,5 @@ These graphs, along with the excellent [visual explaination](https://youtu.be/v6
 The timestamps given are just the visualizations that I enjoyed the most, but the entire video is well worth watching if you have the tiniest bit of curiosity about wordle or information theory. I haven't yet dug through some of their [source code](https://github.com/3b1b/videos/blob/master/_2022/wordle.py), but I would be interested to see how some of these graph (along with the text and animations) are created so smoothly using python. 
 
 Apologies for doing *another* wordle vis, but this one was too good to pass up.
+
+Side note, it is interesting that none of the wordle vises we have found seem to agree on a starter word? This one says crane is best, but the other said completely different things!
