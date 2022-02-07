@@ -4,7 +4,7 @@ My reflection for this week is [this website](http://selfiecity.net/)
 
 ## Description:
 
-This website investigates the styles of selfies in 5 different cities across the world. They have made some really interesting and visualizations.
+This website investigates the styles of selfies in 5 different cities across the world. They have made some really interesting and visualizations. It is a very unique topic as well.
 
 ## What I found interesting?
 
@@ -25,6 +25,8 @@ This website investigates the styles of selfies in 5 different cities across the
 5. They have then explained how the data was collected and their major findings.
 
 ![Alt Text](Week4/p4.PNG)
+
+![Alt Text](Week4/p6.PNG)
 
 6. They also have a selfieploratory page where you can analyse and filte selfies by some provided filters as shown and the link to that is [here](http://selfiecity.net/selfiexploratory/)
 
