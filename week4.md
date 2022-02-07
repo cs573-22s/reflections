@@ -4,5 +4,7 @@ For this weeks reflection I chose to find a visulazation on the 2021 Formula 1 s
 - Then it has a scatter plot to analyse the who had the better performace during the season by looking at the start postion vs end postion on average. And this is supported by a graph the can be expanded for each player. 
 - Lastaly we have the table that shows the positions of the players on each one of the races and how many points the got. 
 
+![plot](./f1.png)
+
 https://public.tableau.com/app/profile/rafael.centeno/viz/2021F1Season/2021F1SeasonInCharts
 
