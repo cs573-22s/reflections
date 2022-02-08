@@ -1,0 +1,6 @@
+## Sources
+https://www.youtube.com/watch?v=Lx_ORMhpmoU&list=PLUXSZMIiUfFSzzgEL4N9aYBXPmGVen3zW
+https://dohyoungpark.com/files/ReadOption/project/FinalPaper.pdf
+
+## Reflection
+This week I reviewed a couple of visualization techniques and used in sports and particularly football. The inspiration for this was the upcoming superbowl and my like for the play by play visualization that shows the yards gained or lost each play that ESPN uses. One source I found was a paper on the visualization techniques used for college football games and it talked about how the users could be over inindated with stats from the game, but the best visualizations were the ones that depicted the yards gained and lost on a feild shaped graph. These visualizations reminded me of ones I had seen on the Secret Bases Dorktown review of the History of the Atlanta Falcons. Along with these visualization techniques the youtube channel has a unique way of bringing the users through the story by laying all the graphs out on a large area and panning between them. Further research showed this was done using Google Earth which I think is a really unique tool which provides and interesting perspective used for story telling. Other graphs also appeal to astetics as the final graph of wins and losses depicts the falcons logo.
