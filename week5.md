@@ -23,21 +23,26 @@ and grasp the sizes of things that you cannot compare side by side in the real w
 Explanation
 ---
 - The main background is a grid map, which shows the different objects' figure and are moving from the big objects to the small ones.
-  You can also change the range of size of the objects by scrolling the mouse
-- 由左至右展示了由小至大的objects,在他们的下方有对应的标尺，用于表示它们所对应的尺寸的范围
-- 鼠标移动到对应事物上时将出现对象的名称，点击则会切换到该对象的详细界面
-You can jump to the page you want by clicking/tapping on the bar that indicates a scale position. 
-You can scroll by mouse wheel or swipe the screen left and right with a touch device.
-Clicking/tapping the object of your interest will take you to an explanation of the object and its size.
-You can see the explanation by clicking/tapping the object or white bar on the bottom of the object.
-The object you selected will be displayed together with other objects for size comparison. By clicking/tapping the “Bigger” or “Smaller” Button, you will learn more about the object you selected.
-Clicking or tapping the back button will return you to the original page.
-Clicking or tapping a unit or title will bring up related explanations about the unit.
-- g该图很好的向我们展示了不同物体之间的大小差别，
-对于生活中常见的objects，例如兔子、狗、树，我们能很容易的了解它们体型间的大小差距，
-但对于行星这种巨大的objects以及细菌这种微小的objects我们很难去感知它们的具体大小
-尽管我们可以了解到例如土星的直径这样的数据，但单纯的数字并不能让我们直观地感受到它究竟有多大、究竟比地球大多少。
-这张图则利用了对比的方式直观地向我们展示了我们肉眼无法观察的事物的大小关系
+  You can also change the range of size of the objects by scrolling the mouse.
+- From the left to the right shows the objects from small to big.
+  And there is a scaleplate under these objects which shows the range of the size of the objects.
+- You can jump to the page you want by clicking/tapping on the bar that indicates a scale position. 
+- You can scroll by mouse wheel or swipe the screen left and right with a touch device.
+- Clicking/tapping the object of your interest will take you to an explanation of the object and its size.
+- You can see the explanation by clicking/tapping the object or white bar on the bottom of the object.
+- The object you selected will be displayed together with other objects for size comparison. 
+  By clicking/tapping the “Bigger” or “Smaller” Button, you will learn more about the object you selected.
+- Clicking or tapping the back button will return you to the original page.
+- Clicking or tapping a unit or title will bring up related explanations about the unit.
+
+Analysis
+---
+- This chart shows the size difference among differnet objects in a fantastic way.
+  For the objects which are common in ourlife, like rabbits, dogs, and trees, it's easy for us to tell the difference about their size.
+  However, for the huge objects, like the planets, or the tiny objects, like bacteria, it's different to perceive their specific size.
+  Although we can learn about data such as Saturn's diameter, 
+  the numbers can't give us an intuitive sense of how big it is or how much it is bigger than the earth.
+  This chart uses the method of contrast to intuitively show us the size relationship of objects that we can't observe by our naked eyes.
 
 
   
