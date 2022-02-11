@@ -4,7 +4,7 @@ Prof. Harrison
 February 7th, 2022
 Reflection 4
 
-	For this week I chose to look at a visualization called migrations in motion. Published by The Nature Conservancy, this visualization tracks potential migration patterns that will be taken by various animals in North and South America in response to warming temperatures and climate change. The map highlights three categories of species: mammals, amphibians, and birds. 
+For this week I chose to look at a visualization called migrations in motion. Published by The Nature Conservancy, this visualization tracks potential migration patterns that will be taken by various animals in North and South America in response to warming temperatures and climate change. The map highlights three categories of species: mammals, amphibians, and birds. 
 
 From a technical view this visualization feels fairly complex. While it is likely only a few blocks of code to generate the map and then animate the different migration patterns, I’d wager a guess that those are not easily displayed. It’s likely that such a visualization is made using D3, however looking at the impressive scope of this map and animation it may be a bit outside of the scope of this class. However, it does give a good frame of reference for other more dynamic forms of visualization that could be capable within this class.
 
