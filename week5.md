@@ -1,0 +1,7 @@
+# James Webb Space Telescope
+
+This might be slightly old news, but since the James Webb Space Telescope (jwst) lauched, people have been worried about its MANY potential points of failure and many have been eager to see it produce images already. During its launch, in particular, I was just curious about how long it would take and what the current stage of the craft was. NASA had a very neat tracker for the launch cycle [here](https://www.jwst.nasa.gov/content/webbLaunch/whereIsWebb.html) and it is currently tracking the current stages of callibration. They have a bunch of cool ways of displaying what the timeline for the jwst is over the next month and even have a 3d interactive visualization of the solar system that shows where webb is relative to planets and other spacecraft. 
+
+My favortie part of this dashboard, however, is the lower section where it explains in detail and with interesting visualizations what the jwst is currently doing and why. It contextualizes why it takes so long for to be ready to start taking pictures and makes this information more accessible to the average person.
+
+(3b1b made a follow up wordle video but im staying strong and not using that even though he linked a very good [visualization/wordle solver](https://jonathanolson.net/wordle-solver/))
