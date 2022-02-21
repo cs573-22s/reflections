@@ -1,0 +1,8 @@
+# Whats the most energy intensive programming language?
+
+I found a [paper](https://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf) that was interesting showing the difference in energy usage between many different popular programming languages. It included some charts that show the different energy uses, memory uses, and runtime. Some issues I have with the visualizations are there aren't consistent units between some of the groups. An example on the page 262 is the different catagories all use different scales of MB which makes it hard to compare the different graphs. I would've like to see a unified graph that allows easier comparison between those groups. It obscures the extent of the difference between the groups the chose and makes it harder to draw an overall conclusion about these groups and their performance.
+
+I also think that instead of a boring table, there are much more interesting ways to present their final conclusions. Examples could include even a simple bar chart. One reason that they might not want to do this because for some reason if there was an easy chart that could show this, it would be shared on the internet for eternity and used as a way to critisise the popularity of python. 
+
+I also liked this paper because of the [reddit](https://www.reddit.com/r/ProgrammerHumor/comments/sxpgyk/saw_this_gem_of_a_post_on_linkedin_thought_i/?utm_medium=android_app&utm_source=share) comments:
+"The cigarettes you smoke while developing in C outweigh the savings in emissions"
