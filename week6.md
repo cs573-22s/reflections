@@ -5,7 +5,7 @@
 
 ["Visual History of every Air Jordan"](https://pudding.cool/2018/09/jordans/)
 
-![Jordan 1](https://github.com/mchalmers/reflections/blob/master/week6-1.jpg?raw=true)
+![Jordan 1](https://github.com/mchalmers/reflections/blob/master/week6-1.JPG?raw=true)
 
 This week I was able to find a more non-conventional data visualization from The Pudding. 
 While this visualization doesn't convey standard numerical data comparisons,
