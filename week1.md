@@ -1,0 +1,9 @@
+Monet Norales BCB502 Reflection #1
+
+Source: https://www.carbonbrief.org/mapped-how-the-us-generates-electricity
+
+The data visualization from this source is an interactive dipiction of the electricty sources for the United States. I chose this as my reflection piece  because it reminded me of a friend who used to do a lot research on electricity generation methods and their effect on the environment. The depiction itself also caught my eye because of the ability to see the map in multiple views. The incorperation of the satillite images for both day and night are a fun addition to the greyscale view. This visualization shows the various methods of energy generation as well as their general locations in the country. The methods include low carbon, high carbon, biomass, coal, gas, geothermal, hydro, nuclear, oil, solar, storage, waste, wind, and other. Other represents the less popular and more scattered methods such as steam, phosphate, chemical, ect.
+
+The animations for this image allow the user to view each method's energy output by size of the bubble as well as the general location. When hovering the mouse over each bubble, the user is also able to see the energy capacity, type of generation method being used, state it is found in, and year that each location opened. beside the country map, there is also a section that have a graphical representation of the generation methods that makes it easier for the user to immediatly identify the major sources of energy for the country, which in this case are gas and coal. The creator's of this visualization had the goal of making it eaiser to analyse the importance of the technologies and methods available for each state/region.
+
+Futher down, there are other breakdowns of this information, including one showing the difference between now and ten years ago. I found the interactive one the most interesting and captivating in this case.
