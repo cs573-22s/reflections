@@ -1,4 +1,4 @@
-Week 6
+Week 7
 ---
 Link: http://hint.fm/wind/
 
