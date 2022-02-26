@@ -3,7 +3,7 @@
 My reflection for this week:
 https://graphicprototype.net/icebergs/
 
-This is a visualization of 7000 icebergs around the coast of Antarctica. The data were collected in 1997.
+This is a visualization of 7000 **icebergs around the coast of Antarctica**. The data were collected in 1997.
 
 ![](img/reflection-6.png)
 
