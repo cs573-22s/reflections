@@ -1,0 +1,9 @@
+Elaine Chen
+CS 573 • Data Visualization
+Professor Harrison
+February 14, 2022
+Reflection 5
+
+Link Referenced: https://polygraph.cool/lifeaftercollege/
+
+This data visualization looks at life after graduation in different aspects, ranging from salaries, living locations, employment opportunities per industry, and living situations. Overall, this visual provides a very interactive and informative display of how each aspect has changed over time. It effectively uses colors and shapes to portray differences. Each visuals difference in interactive elements keeps the reader engaged and interested with minimal but effective changes. It also utilizes a slider to help show how this information has changed over the past 20 years. The map of the usa is made up by the key visuals and is interactive as different culsterings represent the population and when hovering over each culster, the specific state it identifies with is presented in a pop up. This creates more interaction with the visual to learn the information. These visuals utilize interaction to help the reader find the information they are looking for with maps that provide information in pop ups over hovering over information they are looking for. However, there are some elements of these visuals that I believe could be improved upon. For example, the x axis could have been broughtto each specific profession in the SALARY RANGE BY PROFESSION visual. Additionally, in the "Where Recent Graduates Live" visual, a clearer key could have been used. Overall, this visualization portrays a large amount of information for soon to be graduates to look into, and keeps the information easy to understand. This minimal but informative visual allows for there a multitude of information to be displayed but keeps it where the reader only needs to interact with a limited amount at a time dependant on what they wish to look into. 
