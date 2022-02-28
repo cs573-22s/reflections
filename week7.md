@@ -5,3 +5,4 @@ This data viz summarizes the last lap of the lasr gand prix of the 2021 season, 
 There are 4 parts to this viz, on the left denoted with colored dots, we have the racers and where they were on the track for the duration of the lap, this is a way of showing that it was a very close race. 
 The other three parts are the grpahs showing the telemetry data: breaking, throttle and speed also mathching the exact postion on the track. having this real time telemetry graph shows how precise these drivers have to be and how unique techniques and circunstances separate the winner from the contenders. 
 
+![plot](./telemetry.png)
