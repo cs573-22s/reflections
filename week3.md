@@ -1,0 +1,5 @@
+## Source
+https://extraordinaryfacility.com/co2/
+
+## Reflection
+While the topic of the visualization is not very unique, I chose this visualization of CO2 levels because of its unique perspective and way to interact with the data. On a mission to look at new ways to portray and interact with data I thought about the idea of portraying data in a game and that’s what brought me to this visualization. The game play is a little rough and could perhaps be laid out in a more exciting plot; the immensity of the data certainly leaves an impact on the user. Sadly I think what stuck out the most to me were the size comparisons, the metric tons of CO2 and the landmarks paired with the low viewing angle, a technique which may be a little deceptive but works well in showing the scarily large blocks. It may be difficult to create a fun game out of data that is so damning, but I would like to look into more examples of data visualization being turned into games. I can think of in the past having played gerrymandering games or DNA folding puzzles that were fun and think that it was a good medium for teaching somewhat complicated concepts.
