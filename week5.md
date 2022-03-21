@@ -1,0 +1,7 @@
+# Language families
+Tracking language and how it evolves is a great way to make cultural insights. After Babylon was made by the Puff Puff Team in 2013/2014 to display where modern languages originated along with the origin of their linguistic families. A linguistic family is a group of languages that originated from the same language and split later (such as French, Italian and Spanish being "direct descendants" from Latin). The image below is a visualization of the origin of each modern language.
+![Languages in the world](https://github.com/allyziemage/reflections/blob/master/lang.PNG "Sites of language origins")
+
+In addition, After Babylon analyzed which languages are the most spoken today, with the top five being Mandarin, Spanish, English, Hindi, and Portuguese. These being the most spoken languages in the world demonstrates how languages can become commonly spoken by two methods. The first is via colonization and the spreading of the colonizers' native tongue, such as English and Spanish being introduced into the Americas. The second is through large populations in the native country for that language, such as Mandarin and Hindi being spoken in China and India respectively. Each country has about 1.4 billion people and while Mandarin and Hindi are not the only languages spoken in each country, they are the official languages (along with English being an official language in India). 
+
+([Source](http://www.puffpuffproject.com/languages.html))
