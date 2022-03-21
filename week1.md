@@ -1,0 +1,10 @@
+Eva Bruklich
+CS573
+
+Source: https://www.pewresearch.org/next-america/#Two-Dramas-in-Slow-Motion 
+
+The data visualization that I have found this week is related to the population change in the United States. It displays the changes of the population across the years 1955 and 2060, and allows the user to select the specific year they want to see the changes until. The chart is composed of horizontal line graphs, each line representing an age group, with the youngest group of 0-4 at the bottom of the chart and the oldest group of 85+ at the top of the chart. There is a line running through the middle of the bars, with the segments to the left of it representing what percentage of the population is male and the right of it representing what percentage is female. This allows for a user to clearly distinguish how each age group is split between sexes. Each segment is color coded, with a darker yellow representing the male population and lighter yellow representing the female population.  
+
+The visualization includes an animation, of each age segment changing in size, as the years increase and the population changes. There are several segments colored a dark brown, which indicate the Baby Boomer generation. At the beginning of the animation, year 1950, it is the largest chunk at the bottom of the chart. As the years go up to 1960, the dark brown segment changes sizes and climbs up the chart. 
+
+The creators of this visualization wanted to show that the typical “age pyramid” was going to turn into a rectangle as the Baby Boomer generation got older. The pyramid name comes from the shape of the chart having a larger younger population and a much smaller older population. This was largely due to wars that occurred right before the Baby Boomers were born. Many older men and some women went off to fight and died in the wars, resulting in a much smaller older population. Overall, this animation is very interesting as it allows a viewer to observe the changes in population, specifically how the Baby Boomers affected it. 
