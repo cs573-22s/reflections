@@ -1,0 +1,7 @@
+website：https://www.washingtonpost.com/graphics/2018/sports/world-cup-backup-countries/?noredirect=on&utm_term=.518d72a9d6ae
+
+Nearly 13 percent of Americans are foreign-born. Based on census data, The Washington Post set out to find pockets of World Cup fandom based on foreign-born populations living within the United States. We limited our analysis to the 29 teams that actually qualified for the World Cup (sorry Italy and Netherlands, we feel your pain) and that have country-of-origin data available in the census (Tunisia, Senegal and Iceland are omitted). We took that data and mapped it, showing the largest foreign-born population in each county.
+
+The first chart shows country of birth of largest immigrant groups, including Mexico, Germany, Korea, England, Japan, Poland, Russia, and Others. Each color reperesent a immigrant group, and the size of the colored dots reperesent the population.
+
+Every country’s population is distributed in different ways. Polish immigrants are clustered near Chicago, Koreans in Los Angeles, and there are small pockets of Basque Spaniards in eastern Oregon and Idaho. These maps show where people born in each World Cup country make up the largest share of the total county population. They’ve excluded counties where fewer than 25 residents were born in the World Cup nation.
